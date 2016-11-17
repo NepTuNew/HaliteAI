@@ -1,6 +1,6 @@
-# HaliteAI
+# HaliteBot
 
-This is a AI Game! You can code your bot to fight with other people!
+This is a programming Game! You can code your bot to fight with other people!
 
 https://halite.io
 
